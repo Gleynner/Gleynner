@@ -1,7 +1,7 @@
-# <p align="center">💡 Transformando dados em tomada de decisões
+# <p align="center"> 💡 Transformando dados em tomada de decisões 
 </p>
 
-Sou graduado em Engenharia de Produção e mestre em Estatística Aplicada, e apaixonado pela Ciência de Dados. A combinação dessas áreas me proporciona uma visão mais abrangente sobre negócios conciliada a possibilidade de agregar valor para a empresa nas tomadas de decisões baseadas no Data Driven.
+Sou graduado em Engenharia de Produção e mestre em Estatística Aplicada, e apaixonado pela Ciência de Dados. A combinação dessas áreas me proporciona uma visão mais abrangente sobre negócios conciliada a possibilidade de agregar valor para a empresa na tomada de decisões baseadas no Data Driven.
 
 Durante minha trajetória profissional, tive a oportunidade de executar projetos de análise de dados para empresas, como Bayer e Labor Rural. Na Labor Rural, trabalhei diretamente com a utilização de modelos estatísticos e de aprendizado de máquina, supervisionado e não supervisionado, para gerar recomendações no manejo da atividade leiteira e cafeeira, visando promover ganhos na rentabilidade de fazendas.
 
