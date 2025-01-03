@@ -1,10 +1,10 @@
 ## 💡 Transformando dados em tomada de deciões
 
-Sou graduado em Engenharia de Produção e mestre em Estatística Aplicada, e apaixonado pela Ciência de Dados. A combinação dessas áreas me proporciona uma visão mais abrangente sobre negócios conciliada a possibilidade de agregar valor para a empresa nas tomadas de decisão baseadas no Data Driven.
+Sou graduado em Engenharia de Produção e mestre em Estatística Aplicada, e apaixonado pela Ciência de Dados. A combinação dessas áreas me proporciona uma visão mais abrangente sobre negócios conciliada a possibilidade de agregar valor para a empresa nas tomadas de decisões baseadas no Data Driven.
 
 Durante minha trajetória profissional, tive a oportunidade de executar projetos de análise de dados para empresas, como Bayer e Labor Rural. Na Labor Rural, trabalhei diretamente com a utilização de modelos estatísticos e de aprendizado de máquina, supervisionado e não supervisionado, para gerar recomendações no manejo da atividade leiteira e cafeeira, visando promover ganhos na rentabilidade de fazendas.
 
-Atualmente, na empresa Tintas Prime, lidero a equipe de produção e sou responsável pelo planejamento e controle de produção, por introduzir a coleta e o monitoramento de dados de produção e de indicadores de qualidade, fazer a gestão de estoques e do setor de expedição de produtos.
+Atualmente, na Tintas Prime, lidero a equipe de produção e sou responsável pelo planejamento e controle de produção, por introduzir a coleta e o monitoramento de dados de produção e de indicadores de qualidade, fazer a gestão de estoques e do setor de expedição de produtos.
 
 
 ##
