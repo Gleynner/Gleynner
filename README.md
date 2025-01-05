@@ -9,6 +9,12 @@ Atualmente, na Tintas Prime, lidero a equipe de produção e sou responsável pe
 <br>
 <br>
 
+
+### <p align="center"> Aperte [AQUI](https://github.com/Gleynner/DataScience) para ver meu portifólio!!! 
+
+<br>
+<br>
+
 ## Linguagens e Bibliotecas:
 
 <div style="display: inline_block"><br>
