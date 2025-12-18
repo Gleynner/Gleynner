@@ -1,9 +1,12 @@
 # <p align="center"> 💡 Transformando dados em tomada de decisões 
 </p>
 Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria e com forte paixão por Ciência de Dados. Minha formação combina análise estatística, modelagem preditiva e visão estratégica de negócios, permitindo a tomada de decisões orientadas por dados.           
+
 Ao longo da minha trajetória, desenvolvi projetos para empresas de referência, aplicando modelos estatísticos e algoritmos de machine learning para suporte à decisão data-driven em processos agroindustriais.
+
      
 Na Tintas Prime, atuei na liderança da equipe de produção, coordenando processos industriais e implementando sistemas de coleta, monitoramento e análise de dados operacionais para melhoria contínua de eficiência, qualidade e desempenho produtivo. Além disso, implementei estratégias de gestão de estoques e expedição, aplicando conceitos de Engenharia de Produção para reduzir desperdícios, mitigar perdas logísticas e aumentar a previsibilidade da cadeia produtiva.
+
      
 Valorizo o aprendizado contínuo, trabalho colaborativo e soluções inovadoras. Acredito que dados bem analisados geram melhores decisões e impactam diretamente os negócios.
        
