@@ -3,7 +3,7 @@
 
 <br>
 
-Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria e com forte paixão por Ciência de Dados. Minha formação combina análise estatística, modelagem preditiva e visão estratégica de negócios, permitindo a tomada de decisões orientadas por dados.     
+Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria, e uma grande paixão pela Ciência de Dados. Minha formação combina análise estatística, modelagem preditiva e visão estratégica de negócios, permitindo a tomada de decisões orientadas por dados.     
 <br> 
 
 Ao longo da minha trajetória, desenvolvi projetos para empresas de referência, aplicando modelos estatísticos e algoritmos de machine learning para suporte à decisão data-driven em processos agroindustriais.     
