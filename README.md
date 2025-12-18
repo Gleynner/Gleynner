@@ -1,11 +1,10 @@
 # <p align="center"> 💡 Transformando dados em tomada de decisões 
 </p>
+Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria e com forte paixão por Ciência de Dados. Minha formação combina análise estatística, modelagem preditiva e visão estratégica de negócios, permitindo a tomada de decisões orientadas por dados. 
 
-Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria e com forte paixão por Ciência de Dados. Minha formação combina análise estatística, modelagem preditiva e visão estratégica de negócios, permitindo impulsionar a tomada de decisões orientadas por dados. Tenho experiência em modelagem estatística, machine learning, transformação e visualização de dados, sempre focado em extrair insights valiosos.     
+Ao longo da minha trajetória, desenvolvi projetos para empresas de referência, aplicando modelos estatísticos e algoritmos de machine learning para suporte à decisão data-driven em processos agroindustriais.
 
-Durante minha jornada, tive a oportunidade de desenvolver projetos para empresas como Bayer e Labor Rural, aplicando modelos preditivos para otimizar processos agroindustriais. Na Labor Rural, utilizei machine learning para gerar recomendações no manejo da atividade leiteira e cafeeira.       
-
-Atualmente, na Tintas Prime, lidero a equipe de produção e implementei sistemas de coleta e monitoramento de dados para melhorar eficiência e qualidade. Além disso, implementei estratégias para gestão de estoques e expedição, reduzindo desperdícios, prejuízos logísticos e melhorando a previsibilidade da cadeia produtiva.     
+Na Tintas Prime, atuei na liderança da equipe de produção, coordenando processos industriais e implementando sistemas de coleta, monitoramento e análise de dados operacionais para melhoria contínua de eficiência, qualidade e desempenho produtivo. Além disso, implementei estratégias de gestão de estoques e expedição, aplicando conceitos de Engenharia de Produção para reduzir desperdícios, mitigar perdas logísticas e aumentar a previsibilidade da cadeia produtiva.
 
 Valorizo o aprendizado contínuo, trabalho colaborativo e soluções inovadoras. Acredito que dados bem analisados geram melhores decisões e impactam diretamente os negócios.
 
