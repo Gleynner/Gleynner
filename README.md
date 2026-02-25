@@ -1,20 +1,15 @@
-# <p align="center"> 💡 Transformando dados em tomada de decisões 
+# <p align="center"> 💡 Transformando dados em decisões informadas
 </p>
 
 <br>
 
-Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria, e uma grande paixão pela Ciência de Dados. Minha formação combina análise estatística, modelagem preditiva e visão estratégica de negócios, permitindo a tomada de decisões orientadas por dados.     
-<br> 
+Sou Engenheiro de Produção, com mestrado em Estatística Aplicada e Biometria, com atuação voltada à análise de dados, modelagem estatística e apoio à tomada de decisão. Minha formação integra fundamentos estatísticos sólidos, técnicas de ciência de dados e uma visão prática de negócios, permitindo abordar problemas de forma analítica e orientada a resultados.   
 
-Ao longo da minha trajetória, desenvolvi projetos para empresas de referência, aplicando modelos estatísticos e algoritmos de machine learning para suporte à decisão data-driven em processos agroindustriais.     
+Ao longo da minha trajetória, desenvolvi projetos envolvendo análise exploratória de dados, modelagem preditiva e avaliação de desempenho, aplicando métodos estatísticos e algoritmos de machine learning para apoiar decisões em contextos reais. Tenho experiência tanto na investigação dos dados quanto na tradução de resultados analíticos em insights acionáveis.
 
-<br>
+Na Tintas Prime, atuei na liderança da equipe de produção, com foco na organização e melhoria de processos industriais. Nesse contexto, participei da implementação de sistemas de coleta, monitoramento e análise de dados operacionais, apoiando iniciativas de melhoria contínua relacionadas à eficiência, qualidade e desempenho produtivo. Também atuei em estratégias de gestão de estoques e expedição, aplicando conceitos de Engenharia de Produção para redução de desperdícios, mitigação de perdas logísticas e aumento da previsibilidade da operação.
 
-Na Tintas Prime, atuei na liderança da equipe de produção, coordenando processos industriais e implementando sistemas de coleta, monitoramento e análise de dados operacionais para melhoria contínua de eficiência, qualidade e desempenho produtivo. Além disso, implementei estratégias de gestão de estoques e expedição, aplicando conceitos de Engenharia de Produção para reduzir desperdícios, mitigar perdas logísticas e aumentar a previsibilidade da cadeia produtiva.     
-
-<br>
-
-Valorizo o aprendizado contínuo, trabalho colaborativo e soluções inovadoras. Acredito que dados bem analisados geram melhores decisões e impactam diretamente os negócios.     
+Valorizo aprendizado contínuo, colaboração e soluções simples para problemas complexos. Acredito que análises bem fundamentadas, aliadas a uma comunicação clara, são essenciais para que dados se convertam efetivamente em melhores decisões.
 
        
 <br>
