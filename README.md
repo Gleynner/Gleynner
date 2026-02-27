@@ -22,7 +22,7 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
 <br>
 
 
-### <p align="center"> Aperte [AQUI](https://github.com/Gleynner/DataScience) para ver meu portifólio!!! 
+### <p align="center"> Aperte [AQUI](https://github.com/Gleynner/DataScience) para ver meu portfólio!!! 
 
 <br>
 <br>
