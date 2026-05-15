@@ -39,6 +39,8 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Optuna" height="30" width="40" src="https://optuna.org/assets/img/optuna-logo.png">    
   <img align="center" alt="imblearn" height="30" width="40" src="https://imbalanced-learn.org/stable/_static/img/imbalanced-learn-logo.png">
+       <img src="https://img.shields.io/badge/Optuna-003B57?style=for-the-badge">
+       <img src="https://img.shields.io/badge/imbalanced--learn-orange?style=for-the-badge">
 </div>
 
 <br>
