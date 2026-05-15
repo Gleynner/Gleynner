@@ -38,6 +38,8 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Optuna" height="35" src="https://cdn.simpleicons.org/optuna">
+  <img align="center" alt="imblearn" height="35" src="https://imbalanced-learn.org/stable/_static/images/imblearn_logo.svg">
+  <img align="center" alt="LightGBM" height="35" src="https://cdn.simpleicons.org/lightgbm">
 </div>
 
 <br>
