@@ -37,6 +37,7 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Optuna" height="30" width="40" src="https://optuna.org/assets/img/optuna-logo.png">    
 </div>
 
 <br>
