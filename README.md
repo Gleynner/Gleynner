@@ -37,10 +37,7 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="Optuna" height="30" width="40" src="https://iconscout.com/pt/free-icon/free-optuna-icon_14549006">    
-  <img align="center" alt="imblearn" height="30" width="40" src="https://imbalanced-learn.org/stable/_static/img/imbalanced-learn-logo.png">
-       <img src="https://img.shields.io/badge/Optuna-003B57?style=for-the-badge">
-       <img src="https://img.shields.io/badge/imbalanced--learn-orange?style=for-the-badge">
+  <img align="center" alt="Optuna" height="35" src="https://cdn.simpleicons.org/optuna">
 </div>
 
 <br>
