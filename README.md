@@ -34,13 +34,11 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="PD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="Optuna" height="35" src="https://cdn.simpleicons.org/optuna">
-  <img align="center" alt="imblearn" height="35" src="https://imbalanced-learn.org/stable/_static/images/imblearn_logo.svg">
-  <img align="center" alt="LightGBM" height="35" src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg">
-</div>
+  <img align="center" alt="Optuna" height="30" width="40" src="https://cdn.simpleicons.org/optuna">
+  
 
 <br>
 
