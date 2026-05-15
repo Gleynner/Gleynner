@@ -1,4 +1,4 @@
-# <p align="center"> 💡 Transformando dados em decisões informadas
+# <p align="center"> 💡 Transformando dados em decisões
 </p>
 
 <br>
