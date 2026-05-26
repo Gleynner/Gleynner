@@ -35,17 +35,7 @@ ________________________________________________________________________________
        
 ## Linguagens e Bibliotecas:
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="NP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="PD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="Optuna" height="30" width="40" src="https://cdn.simpleicons.org/optuna">
-</div>
+<h3 align="center">💻 Linguagens & Ferramentas</h3>
 
 <p align="center">
   
@@ -58,6 +48,9 @@ ________________________________________________________________________________
 
 </p>
 
+
+<h3 align="center">📊 Análise e Manipulação de Dados</h3>
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -66,12 +59,18 @@ ________________________________________________________________________________
 
 </p>
 
+
+<h3 align="center">📈 Visualização de Dados</h3>
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 </p>
+
+
+<h3 align="center">🤖 Machine Learning</h3>
 
 <p align="center">
 
@@ -83,6 +82,9 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Optuna-2F5BEA?style=for-the-badge"/>
 
 </p>
+
+
+<h3 align="center">📉 Séries Temporais</h3>
 
 <p align="center">
 
