@@ -35,9 +35,9 @@ ________________________________________________________________________________
        
 ## Linguagens e Bibliotecas:
 
-<h3 align="center">💻 Linguagens & Ferramentas</h3>
+<h3 align="left">💻 Linguagens & Ferramentas</h3>
 
-<p align="center">
+<p align="left">
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 <h3 align="left">📊 Análise e Manipulação de Dados</h3>
 
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -60,9 +60,9 @@ ________________________________________________________________________________
 </p>
 
 
-<h3 align="center">📈 Visualização de Dados</h3>
+<h3 align="left">📈 Visualização de Dados</h3>
 
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
@@ -70,9 +70,9 @@ ________________________________________________________________________________
 </p>
 
 
-<h3 align="center">🤖 Machine Learning</h3>
+<h3 align="left">🤖 Machine Learning</h3>
 
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/>
@@ -84,9 +84,9 @@ ________________________________________________________________________________
 </p>
 
 
-<h3 align="center">📉 Séries Temporais</h3>
+<h3 align="left">📉 Séries Temporais</h3>
 
-<p align="center">
+<p align="left">
 
   <img src="https://img.shields.io/badge/Prophet-3C3C3C?style=for-the-badge"/>
 
