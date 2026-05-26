@@ -34,13 +34,8 @@ Minha vivência em Engenharia de Produção complementa essa base analítica, co
 
 Valorizo aprendizado contínuo, colaboração e soluções simples para problemas complexos, entendendo que dados bem analisados só geram valor quando bem interpretados e aplicados.
 
+________________________________________________________________________________________________
        
-<br>
-<br>
-
-
-### <p align="center"> Aperte [AQUI](https://github.com/Gleynner/DataScience) para ver meu portfólio!!! 
-
 <br>
 <br>
 
@@ -60,10 +55,7 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
 
 <br>
 
-##
+### <p align="center"> Para visualizar meu portfólio de Data Science, [clique aqui](https://github.com/Gleynner/DataScience). 
 
-<div> 
-  <a href = "mailto:gleynnerghiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gleynnerghiotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<br>
+<br>
