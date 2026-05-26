@@ -96,5 +96,10 @@ ________________________________________________________________________________
 
 <h3 align="left"> Para visualizar meu portfólio de Data Science, [clique aqui](https://github.com/Gleynner/DataScience). 
 
+<h3 align="left">
+  Para visualizar meu portfólio de Data Science,
+  <a href="https://github.com/Gleynner/DataScience">clique aqui</a>.
+</h3>
+
 <br>
 <br>
