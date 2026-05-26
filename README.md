@@ -18,18 +18,18 @@ ________________________________________________________________________________
 
 ## 👨🏼‍💻 Sobre mim
 
-Sou Engenheiro de Produção, com mestrado em Estatística Aplicada e Biometria, com atuação voltada à análise de dados, modelagem estatística e apoio à tomada de decisão. Minha formação integra fundamentos sólidos em estatística e matemática, técnicas de ciência de dados e compreensão de problemas de negócio, permitindo uma abordagem analítica e orientada a resultados. 
+Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria, atuando em análise de dados, modelagem estatística e machine learning aplicados a problemas de negócio.
 
 <br>
 
-Ao longo da minha trajetória, atuei em projetos acadêmicos e aplicados envolvendo análise exploratória de dados, modelagem preditiva, validação de modelos e avaliação de desempenho. Tenho experiência tanto na investigação dos dados quanto na tradução de resultados quantitativos em insights, com preocupação metodológica e comunicação objetiva.
+Ao longo da minha trajetória, participei de projetos acadêmicos e aplicados voltados à análise e modelagem de dados, atuando desde a exploração, tratamento e interpretação das informações até a construção, validação e otimização de modelos. Tenho experiência com Python, R, SQL e ferramentas de Ciência de Dados, contribuindo para geração de insights, análise quantitativa e suporte analítico em diferentes contextos.
 <br>
 
-Minha vivência em Engenharia de Produção complementa essa base analítica, contribuindo com visão de processos, métricas operacionais e tomada de decisão em ambientes reais. Atualmente, busco consolidar minha atuação profissional em Ciência de Dados, aplicando estatística, programação, visualização e modelagem preditiva em problemas reais de negócio. 
+Minha formação combina base estatística, visão analítica e compreensão de processos, permitindo transformar dados em informações relevantes para melhoria operacional e geração de valor.
 
 <br>
 
-Valorizo aprendizado contínuo, colaboração e soluções simples para problemas complexos, entendendo que dados bem analisados só geram valor quando bem interpretados e aplicados.
+Atualmente, busco oportunidades em Ciência de Dados, Analytics e Machine Learning, contribuindo com soluções orientadas por dados, aprendizado contínuo e foco em resolver problemas de forma prática e estratégica.
 
 ________________________________________________________________________________________________
        
