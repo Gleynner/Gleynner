@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 </p>
 
