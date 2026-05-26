@@ -36,9 +36,6 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
 
 ________________________________________________________________________________________________
        
-<br>
-<br>
-
 ## Linguagens e Bibliotecas:
 
 <div style="display: inline_block"><br>
