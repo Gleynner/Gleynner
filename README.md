@@ -49,7 +49,7 @@ ________________________________________________________________________________
 </p>
 
 
-<h3 align="center">📊 Análise e Manipulação de Dados</h3>
+<h3 align="left">📊 Análise e Manipulação de Dados</h3>
 
 <p align="center">
 
