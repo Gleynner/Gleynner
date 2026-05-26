@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   Gleynner Ghiotto 
-</h2>
+</h1>
 
 
 <br>
