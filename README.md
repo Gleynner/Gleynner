@@ -33,8 +33,6 @@ Valorizo aprendizado contínuo, colaboração e soluções simples para problema
 
 ________________________________________________________________________________________________
        
-## Linguagens e Bibliotecas:
-
 <h3 align="left">💻 Linguagens & Ferramentas</h3>
 
 <p align="left">
