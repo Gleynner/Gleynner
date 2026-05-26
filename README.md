@@ -44,9 +44,37 @@ ________________________________________________________________________________
   <img align="center" alt="NP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="PD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img align="center" alt="Optuna" height="30" width="40" src="https://cdn.simpleicons.org/optuna">
+</div>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Imbalanced--learn-5A5A5A?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Optuna-2F5BEA?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Prophet-3C3C3C?style=for-the-badge"/>
+
+</p>
+
 <br>
 <br>
 
