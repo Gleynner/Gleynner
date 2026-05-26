@@ -1,9 +1,9 @@
 # <p align="center"> 💡 Transformando dados em decisões
 </p>
 
-<h1 align="center">
+<h2 align="center">
   Gleynner Ghiotto Lima de Menezes
-</h1>
+</h2>
 
 
 <br>
