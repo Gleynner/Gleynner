@@ -2,8 +2,8 @@
   Gleynner Ghiotto 
 </h1>
 
-
 <br>
+
 ## 👨🏼‍💻 Sobre mim
 
 Sou Engenheiro de Produção, com mestrado em Estatística Aplicada e Biometria, com atuação voltada à análise de dados, modelagem estatística e apoio à tomada de decisão. Minha formação integra fundamentos sólidos em estatística e matemática, técnicas de ciência de dados e compreensão de problemas de negócio, permitindo uma abordagem analítica e orientada a resultados. 
