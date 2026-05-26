@@ -16,9 +16,6 @@
 
 ________________________________________________________________________________________________
 
-
-<br>
-
 ## 👨🏼‍💻 Sobre mim
 
 Sou Engenheiro de Produção, com mestrado em Estatística Aplicada e Biometria, com atuação voltada à análise de dados, modelagem estatística e apoio à tomada de decisão. Minha formação integra fundamentos sólidos em estatística e matemática, técnicas de ciência de dados e compreensão de problemas de negócio, permitindo uma abordagem analítica e orientada a resultados. 
@@ -49,7 +46,7 @@ ________________________________________________________________________________
   <img align="center" alt="SK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Optuna" height="30" width="40" src="https://cdn.simpleicons.org/optuna">
   
-
+<br>
 <br>
 
 ### <p align="center"> Para visualizar meu portfólio de Data Science, [clique aqui](https://github.com/Gleynner/DataScience). 
