@@ -66,6 +66,23 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 
 ---
 
+## 📊 GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gleynner&show_icons=true&theme=default" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleynner&layout=compact" height="165">
+</p>
+
+---
+
+### 📬 Vamos conversar?
+
+Estou aberto a oportunidades em Ciência de Dados, Analytics e áreas correlatas. Se quiser trocar uma ideia sobre dados ou tem uma oportunidade que combine com meu perfil, me chama:
+
+- 💼 LinkedIn: [in/gleynnerghiotto](https://linkedin.com/in/gleynnerghiotto)
+- ✉️ Email: SEU_EMAIL_AQUI
+
+
 ---
        
 <h3 align="left">💻 Linguagens & Ferramentas</h3>
