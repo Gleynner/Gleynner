@@ -27,6 +27,24 @@ A atuação mais recente em gestão operacional na indústria reforçou, na prá
 Atualmente, busco oportunidades em Ciência de Dados, Analytics e Machine Learning.
 
 ________________________________________________________________________________________________
+
+## 🚀 Projetos em destaque
+
+**☕ [Café, Estresse e Sono: da Análise de Dados à Recomendação de Negócio](https://github.com/Gleynner/coffee-sleep-health-analysis)**
+`Python` `Scikit-learn` `LightGBM` `XGBoost`
+Estresse identificado como principal fator associado à qualidade do sono (r ≈ -0,91); 3 modelos comparados, com F1-macro de até 0,99; diagnóstico crítico de data leakage estrutural.
+
+**💳 [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito)**
+`Python` `LightGBM` `Optuna` `Imbalanced-Learn`
+Pipeline completo de pré-processamento e feature engineering (WOE, IV, clusterização geográfica); threshold ajustado ao trade-off recall × custo operacional.
+
+**🚲 [Previsão de Demanda — London Bike Sharing](https://github.com/Gleynner/Analise_demanda_bike_sharing)**
+`Python` `Prophet` `Séries Temporais`
+RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de demanda atípico identificado e validado contra fontes jornalísticas externas.
+
+📂 Veja todos os projetos, com detalhes técnicos completos, no **[repositório de portfólio](https://github.com/Gleynner/DataScience)**.
+
+---
        
 <h3 align="left">💻 Linguagens & Ferramentas</h3>
 
