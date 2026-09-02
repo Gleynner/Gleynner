@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-________________________________________________________________________________________________
+---
 
 ## 👨🏼‍💻 Sobre mim
 
@@ -26,7 +26,7 @@ A atuação mais recente em gestão operacional na indústria reforçou, na prá
 
 Atualmente, busco oportunidades em Ciência de Dados, Analytics e Machine Learning.
 
-________________________________________________________________________________________________
+---
 
 ## 🚀 Projetos em destaque
 
@@ -65,30 +65,9 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
-
-## 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gleynner&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleynner&layout=compact" height="165">
-</p>
-
----
-
-### 📬 Vamos conversar?
-
-Estou aberto a oportunidades em Ciência de Dados, Analytics e áreas correlatas. Se quiser trocar uma ideia sobre dados ou tem uma oportunidade que combine com meu perfil, me chama:
-
-- 💼 LinkedIn: [in/gleynnerghiotto](https://linkedin.com/in/gleynnerghiotto)
-- ✉️ Email: SEU_EMAIL_AQUI
-
-
----
        
 <h3 align="left">💻 Linguagens & Ferramentas</h3>
-
 <p align="left">
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -96,59 +75,56 @@ Estou aberto a oportunidades em Ciência de Dados, Analytics e áreas correlatas
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  
 </p>
 
 
 <h3 align="left">📊 Análise e Manipulação de Dados</h3>
-
 <p align="left">
-
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-
 </p>
 
 
 <h3 align="left">📈 Visualização de Dados</h3>
-
 <p align="left">
-
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
 </p>
 
 
 <h3 align="left">🤖 Machine Learning</h3>
-
 <p align="left">
-
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/Imbalanced--learn-5A5A5A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Optuna-2F5BEA?style=for-the-badge"/>
-
 </p>
 
 
 <h3 align="left">📉 Séries Temporais</h3>
-
 <p align="left">
-
   <img src="https://img.shields.io/badge/Prophet-3C3C3C?style=for-the-badge"/>
-
 </p>
 
-________________________________________________________________________________________________
+---
 
 <h3 align="left">
   Para visualizar meu portfólio de Data Science (em desenvolvimento),
   <a href="https://github.com/Gleynner/DataScience">clique aqui</a>.
 </h3>
 
-<br>
+
+---
+
+## 📬 Vamos conversar?
+
+Estou aberto a oportunidades em Ciência de Dados, Analytics e áreas correlatas. Se quiser trocar uma ideia sobre dados ou tem uma oportunidade que combine com meu perfil, me chama:
+
+- 💼 LinkedIn: [in/gleynnerghiotto](https://linkedin.com/in/gleynnerghiotto)
+- ✉️ Email: SEU_EMAIL_AQUI
+
+
