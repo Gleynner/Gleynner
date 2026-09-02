@@ -70,27 +70,10 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 ![Optuna](https://img.shields.io/badge/Optuna-2F5BEA?style=flat)
 ![Prophet](https://img.shields.io/badge/Prophet-3C3C3C?style=flat)
 
-
-
+**Visualização de Dados**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black)
 ---
-       
-<!-- <h3 align="left">💻 Linguagens & Ferramentas</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p> -->
 
-
-<h3 align="left">📊 Análise e Manipulação de Dados</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-</p>
 
 
 <h3 align="left">📈 Visualização de Dados</h3>
@@ -100,29 +83,6 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-
-<!-- <h3 align="left">🤖 Machine Learning</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Imbalanced--learn-5A5A5A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Optuna-2F5BEA?style=for-the-badge"/>
-</p> -->
-
-
-<!-- <h3 align="left">📉 Séries Temporais</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Prophet-3C3C3C?style=for-the-badge"/>
-</p> -->
-
----
-
-<h3 align="left">
-  Para visualizar meu portfólio de Data Science (em desenvolvimento),
-  <a href="https://github.com/Gleynner/DataScience">clique aqui</a>.
-</h3>
 
 
 ---
