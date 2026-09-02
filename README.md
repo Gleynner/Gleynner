@@ -72,20 +72,8 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 
 **Visualização de Dados**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black)
-
-
----
-
-
-
-<h3 align="left">📈 Visualização de Dados</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 ---
 
