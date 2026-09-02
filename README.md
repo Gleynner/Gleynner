@@ -61,21 +61,21 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
+![Imbalanced-Learn](https://img.shields.io/badge/Imbalanced--learn-5A5A5A?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
        
-<h3 align="left">💻 Linguagens & Ferramentas</h3>
+<!-- <h3 align="left">💻 Linguagens & Ferramentas</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+</p> -->
 
 
 <h3 align="left">📊 Análise e Manipulação de Dados</h3>
