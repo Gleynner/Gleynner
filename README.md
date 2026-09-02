@@ -42,6 +42,7 @@ Pipeline completo de pré-processamento e feature engineering (WOE, IV, clusteri
 `Python` `Prophet` `Séries Temporais`
 RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de demanda atípico identificado e validado contra fontes jornalísticas externas.
 
+
 📂 Veja todos os projetos, com detalhes técnicos completos, no **[repositório de portfólio](https://github.com/Gleynner/DataScience)**.
 
 
@@ -63,6 +64,8 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
 ![Imbalanced-Learn](https://img.shields.io/badge/Imbalanced--learn-5A5A5A?style=flat)
 ![Optuna](https://img.shields.io/badge/Optuna-2F5BEA?style=flat)
+![Prophet](https://img.shields.io/badge/Prophet-3C3C3C?style=flat)
+
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -96,7 +99,7 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 </p>
 
 
-<h3 align="left">🤖 Machine Learning</h3>
+<!-- <h3 align="left">🤖 Machine Learning</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/>
@@ -104,13 +107,13 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/Imbalanced--learn-5A5A5A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Optuna-2F5BEA?style=for-the-badge"/>
-</p>
+</p> -->
 
 
-<h3 align="left">📉 Séries Temporais</h3>
+<!-- <h3 align="left">📉 Séries Temporais</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Prophet-3C3C3C?style=for-the-badge"/>
-</p>
+</p> -->
 
 ---
 
