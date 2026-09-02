@@ -82,6 +82,6 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 Estou aberto a oportunidades em Ciência de Dados, Analytics e áreas correlatas. Se quiser trocar uma ideia sobre dados ou tem uma oportunidade que combine com meu perfil, me chama:
 
 - 💼 LinkedIn: [in/gleynnerghiotto](https://linkedin.com/in/gleynnerghiotto)
-- ✉️ Email: SEU_EMAIL_AQUI
+- ✉️ Email: [gleynnerghiotto@outlook.com](mailto:gleynnerghiotto@outlook.com)
 
 
