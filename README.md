@@ -62,6 +62,8 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
 ![Imbalanced-Learn](https://img.shields.io/badge/Imbalanced--learn-5A5A5A?style=flat)
+![Optuna](https://img.shields.io/badge/Optuna-2F5BEA?style=flat)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
