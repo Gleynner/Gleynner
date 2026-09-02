@@ -44,6 +44,28 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 
 📂 Veja todos os projetos, com detalhes técnicos completos, no **[repositório de portfólio](https://github.com/Gleynner/DataScience)**.
 
+
+---
+
+### 🛠 Stack técnica
+
+**Linguagens & Ferramentas**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Machine Learning & Dados**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
 ---
        
 <h3 align="left">💻 Linguagens & Ferramentas</h3>
