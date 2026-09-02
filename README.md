@@ -18,18 +18,13 @@ ________________________________________________________________________________
 
 ## 👨🏼‍💻 Sobre mim
 
-Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria, atuando em análise de dados, modelagem estatística e machine learning aplicados a problemas de negócio.
+Cientista de Dados com formação em Engenharia de Produção e mestrado em Estatística Aplicada e Biometria (UFV), atualmente cursando especialização em Inteligência Artificial (IFES). 
+  
+Mais de 3 anos de experiência em análise de dados, modelagem estatística e Machine Learning aplicados a problemas reais de negócio, incluindo projetos em parceria com empresas renomadas.
+  
+A atuação mais recente em gestão operacional na indústria reforçou, na prática, o impacto de dados bem estruturados sobre decisões de negócio — o que direcionou o aprofundamento técnico em Ciência de Dados por meio de projetos aplicados de ponta a ponta, da análise exploratória e feature engineering à modelagem preditiva (Regressão Logística, LightGBM, XGBoost, Prophet) e comunicação de resultados orientada à tomada de decisão.
 
-<br>
-
-Ao longo da minha trajetória, participei de projetos acadêmicos e aplicados voltados à análise e modelagem de dados, atuando desde a exploração, tratamento e interpretação das informações até a construção, validação e otimização de modelos. Tenho experiência com Python, R, SQL e ferramentas de Ciência de Dados, contribuindo para geração de insights, análise quantitativa e suporte analítico em diferentes contextos.
-<br>
-
-Minha formação combina base estatística, visão analítica e compreensão de processos, permitindo transformar dados em informações relevantes para melhoria operacional e geração de valor.
-
-<br>
-
-Atualmente, busco oportunidades em Ciência de Dados, Analytics e Machine Learning, contribuindo com soluções orientadas por dados, aprendizado contínuo e foco em resolver problemas de forma prática e estratégica.
+Atualmente, busco oportunidades em Ciência de Dados, Analytics e Machine Learning.
 
 ________________________________________________________________________________________________
        
