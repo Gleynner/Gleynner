@@ -48,7 +48,7 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 
 ---
 
-### 🛠 Stack técnica
+## 🛠 Stack técnica
 
 **Linguagens & Ferramentas**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -58,7 +58,11 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+
 **Machine Learning & Dados**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
@@ -67,8 +71,6 @@ RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de dema
 ![Prophet](https://img.shields.io/badge/Prophet-3C3C3C?style=flat)
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
        
