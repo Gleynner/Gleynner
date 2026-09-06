@@ -39,7 +39,7 @@ Projeto que combina EDA, Machine Learning e interpretabilidade com SHAP, alcanç
 Pipeline completo de pré-processamento e feature engineering (WOE, IV, clusterização geográfica); threshold ajustado ao trade-off recall × custo operacional.
 
 **🚲 [Previsão de Demanda — London Bike Sharing](https://github.com/Gleynner/Analise_demanda_bike_sharing)**
-`Python` `Prophet` `Séries Temporais`
+`Python` `Pandas` `EDA` `Prophet` `Séries Temporais`
 RMSE relativo de 17,53% após tuning via cross-validation temporal; pico de demanda atípico identificado e validado contra fontes jornalísticas externas.
 
 
