@@ -31,7 +31,7 @@ Atualmente, busco oportunidades em Ciência de Dados, Analytics e Machine Learni
 ## 🚀 Projetos em destaque
 
 **☕ [Café, Estresse e Sono: da Análise de Dados à Recomendação de Negócio](https://github.com/Gleynner/coffee-sleep-health-analysis)**
-`Python` `Scikit-learn` `LightGBM` `XGBoost` `SHAP`
+`Python` `Pandas` `EDA` `Scikit-learn` `LightGBM` `XGBoost` `SHAP`
 Projeto que combina EDA, Machine Learning e interpretabilidade com SHAP, alcançando F1-macro de até 0,99 e identificando estresse e horas de sono como os principais fatores associados à qualidade do sono, traduzindo os resultados em recomendações de negócio
 
 **💳 [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito)**
