@@ -35,7 +35,7 @@ Atualmente, busco oportunidades em Ciência de Dados, Analytics e Machine Learni
 Projeto que combina EDA, Machine Learning e interpretabilidade com SHAP, alcançando F1-macro de até 0,99 e identificando estresse e horas de sono como os principais fatores associados à qualidade do sono, traduzindo os resultados em recomendações de negócio
 
 **💳 [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito)**
-`Python` `LightGBM` `Optuna` `Imbalanced-Learn`
+`Python` `Pandas` `EDA` `LightGBM` `Optuna` `Imbalanced-Learn`
 Pipeline completo de pré-processamento e feature engineering (WOE, IV, clusterização geográfica); threshold ajustado ao trade-off recall × custo operacional.
 
 **🚲 [Previsão de Demanda — London Bike Sharing](https://github.com/Gleynner/Analise_demanda_bike_sharing)**
