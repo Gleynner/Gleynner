@@ -18,13 +18,7 @@
 
 ## 👨🏼‍💻 Sobre mim
 
-Cientista de Dados com formação em Engenharia de Produção e mestrado em Estatística Aplicada e Biometria (UFV), atualmente cursando especialização em Inteligência Artificial (IFES). 
-  
-Mais de 3 anos de experiência em análise de dados, modelagem estatística e Machine Learning aplicados a problemas reais de negócio, incluindo projetos em parceria com empresas renomadas.
-  
-A atuação mais recente em gestão operacional na indústria reforçou, na prática, o impacto de dados bem estruturados sobre decisões de negócio — o que direcionou o aprofundamento técnico em Ciência de Dados por meio de projetos aplicados de ponta a ponta, da análise exploratória e feature engineering à modelagem preditiva (Regressão Logística, LightGBM, XGBoost, Prophet) e comunicação de resultados orientada à tomada de decisão.
-
-Atualmente, busco oportunidades em Ciência de Dados, Analytics e Machine Learning.
+Profissional com formação em Engenharia de Produção, mestrado em Estatística Aplicada e Biometria e especialização em Inteligência Artificial em andamento. Tenho experiência em análise de dados, modelagem estatística e Machine Learning, com atuação em projetos acadêmicos, pesquisa e problemas reais de negócio. Na experiência industrial, atuei diretamente com coleta e estruturação de dados operacionais, monitoramento de KPIs, análise de indicadores e identificação de oportunidades de melhoria, desenvolvendo visão prática sobre como dados apoiam decisões de negócio. Atualmente, aprofundo minha atuação em Ciência de Dados e Machine Learning, com foco em modelagem preditiva, análise estatística e geração de insights orientados à decisão.
 
 ---
 
